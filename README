@@ -1,0 +1,18 @@
+Hello everyone!
+
+To compile this program and making the executable file
+just type:
+
+make
+
+and after that there will be executable file named md
+
+execute the md file by : 
+
+./md
+
+to clean all the object and executable file type 
+
+make clean
+
+
